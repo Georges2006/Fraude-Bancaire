@@ -27,4 +27,4 @@ Le modèle SVM atteint une **précision moyenne (Average Precision)** de **0.84*
 
 ## 🧠 Exécution
 python :Fraude.py
-python Extension jupiter : Fraude.ipynb
+/python Extension jupiter : Fraude.ipynb
